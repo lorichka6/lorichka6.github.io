@@ -1,0 +1,21 @@
+.Menu {
+    width:100%;
+    list-style: none;
+    border-style:solid;
+    bottom:1px 0px 1px 0px;
+    border-color:white;
+}
+
+.Menu-item{
+width:18%;
+display:inline-block;
+}
+
+body {
+    background-color: rgb(79, 221, 79)!important;
+}
+
+.carousel-inner > .item > img {
+  width:640px;
+  height:360px;
+}
