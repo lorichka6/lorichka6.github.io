@@ -14,7 +14,10 @@ display:inline-block;
 margin: 0 auto;
 
 }
-
+.redText{
+  color:red;
+  font-style: italic;
+}
 body {
    
 }
