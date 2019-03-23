@@ -17,6 +17,15 @@ margin: 0 auto;
 .redText{
   color:red;
   font-style: italic;
+
+}
+.blueText{
+  color:blue;
+  font-style: italic;
+
+}
+.quote{
+  font-style: italic;
 }
 body {
    
