@@ -19,6 +19,9 @@ margin: 0 auto;
   font-style: italic;
 
 }
+.bold{
+  font-weight: bold;
+}
 .blueText{
   color:blue;
   font-style: italic;
