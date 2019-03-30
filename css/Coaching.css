@@ -24,7 +24,7 @@ margin: 0 auto;
 .redText{
   color:red;
   font-style: italic;
-
+  font-size:2em;
 }
 .bold{
   font-weight: bold;
