@@ -30,7 +30,7 @@ margin: 0 auto;
   font-weight: bold;
 }
 .blueText{
-  color:blue;
+  color:hsl(190, 57%, 51%);
   font-style: italic;
 }
 .quote{
